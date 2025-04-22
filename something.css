@@ -1,0 +1,92 @@
+.logo img {
+    width: 30px;
+    height: 30px;
+    margin-left: 6%;
+    display: inline-block;
+    vertical-align: top;
+    position: relative;
+    top: 5px;
+    
+}
+.logo {
+    display: inline-block;
+    vertical-align: top;
+    position: relative;
+    top: -31px;
+    margin-left: 5%;
+}
+.menuebar button {
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 15%;
+    border: none;
+    background-color: #ffffff;
+    color: #000;
+    font-size: 16px;
+    margin-top: 7px;
+}
+span{
+    font-size: 20px;
+    color: #000;
+    font-weight: bold;
+    vertical-align: top;
+    position: relative;
+    top: -20px;
+    left: 40px;
+
+}
+sup{
+    font-size: 10px;
+    color: #000;
+    font-weight: bold;
+    vertical-align: top;
+    position: relative;
+    top: 0px;
+}
+.searchbox{
+    background-color: #fffdfd;
+    vertical-align: top;
+    position: absolute;
+    top: 8px;
+    right: 5px;
+    width: 45%;
+    height: 4%;
+    margin-right: 25%;
+    margin-left: 30%;
+    border-radius:15px;
+    justify-content: space-around;
+    border: #000000 1.5px solid;
+
+}
+.searchbox input{
+    font-size: 16px;
+    width: 240px;
+    border: none;
+    background-color: #ffffff;
+    outline: none;
+    margin-top: 4px;
+    margin-left: 10px;
+}
+.Searchicon{
+    background-color: rgb(251, 251, 251);
+    vertical-align: top;
+    position: absolute;
+    top: 8px;
+    right: 0px;
+    width: 5%;
+    height: 4%;
+    margin-right: 25%;
+    margin-left: 50%;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    justify-content: space-around;
+    border: #000000 1.5px solid;
+}
+.Searchicon button{
+    background-color: #ffffff;
+    border: none;
+    outline: none;
+    margin : 6px;
+    cursor: pointer;
+    font-size: 16px;
+}
